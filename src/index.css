@@ -1,0 +1,70 @@
+ .body{
+    padding: 0;
+    margin: 0;
+ }
+ .cardHeading{
+    background-color: rgb(197, 31, 31);
+    color: rgb(253, 249, 249);
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 15px;
+    padding: 6px;
+ }
+ .cardTitle{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 6px;
+    text-decoration: underline;
+    margin-top: 16px;
+
+ }
+ .foodProperty{
+    font-weight: bold;
+    margin-top: 2px;
+    margin-left: 5px;
+    line-height: 1.6;
+    
+ }
+
+ .foodCards{
+    height: 400px;
+    width: 310px;
+    border: 1px solid black;
+    margin: 8px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .renderFood{
+    display: flex;
+    justify-content:space-evenly;
+ }
+ .foodImage{
+    height: 280px;
+    width: 310px;
+ }
+
+ .orderButton{
+    padding: 6px 20px 6px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(22, 177, 22);
+    color: white;
+    margin-left: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+ }
+ .deliveryButton{
+    padding: 6px 20px 6px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(56, 127, 213);
+    color: white;
+    margin: 4px;
+    margin-left: 20px;
+    cursor: pointer;
+    border: none;
+ }
+
+ 
