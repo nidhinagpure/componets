@@ -1,5 +1,6 @@
 
-import './sreach.css'
+
+import './../Components/Sreach.css'
 
 export default function Sreach(){
     return (

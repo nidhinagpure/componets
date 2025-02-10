@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import './index.css'
-import Sreach from './sreach';
+import  Sreach from './Components/Sreach';
 const root = createRoot(document.getElementById("root"));
 
 
